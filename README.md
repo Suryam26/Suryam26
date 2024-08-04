@@ -1,33 +1,26 @@
 <h1 align="center">Hi 👋, I'm Suryam Jain</h1>
 <h3 align="center">A passionate full stack developer with experience in Python and MERN</h3>
 
-<div align="center">
+- 🌱 I’m currently learning **FastAPI and Three.js**
 
-🌱 I’m currently learning **FastAPI and Three.js**
+- 👨‍💻 All of my projects are available at [https://suryamjain.vercel.app/](https://suryamjain.vercel.app/)
 
-💬 Ask me about **Django, Node.js and React**
+- 💬 Ask me about **Django, Node.js and React**
 
-👨‍💻 All of my projects are available at [https://suryamjain.vercel.app/](https://suryamjain.vercel.app/)
-
-📫 How to reach me **suryam.jain@gmail.com**
-
-</div>
+- 📫 How to reach me **suryam.jain@gmail.com**
 
 
-<br />
 
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/suryam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryam26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suryam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryam26" height="30" width="40" /></a>
 </p>
 
-<br />
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -101,9 +94,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<div align="center">
-  <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryam26&show_icons=true&locale=en&layout=compact" alt="suryam26" /></p>
-</div>
