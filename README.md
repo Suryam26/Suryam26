@@ -32,8 +32,6 @@
     <td>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     </td>
@@ -66,8 +64,6 @@
     <td>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     </td>
-</tr>
-<tr>
     <td>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
     </td>
@@ -93,5 +89,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center"><img align="center" width="40%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryam26&show_icons=true&locale=en&layout=compact" alt="suryam26" /></p>
