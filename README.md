@@ -2,10 +2,10 @@
 <h3 align="center">A passionate full stack developer with experience in Python and MERN</h3>
 
 - 🌱 I’m currently learning **FastAPI and Three.js**
-
-- 👨‍💻 All of my projects are available at [https://suryamjain.vercel.app/](https://suryamjain.vercel.app/)
-
+  
 - 💬 Ask me about **Django, Node.js and React**
+  
+- 👨‍💻 All of my projects are available at [https://suryamjain.vercel.app/](https://suryamjain.vercel.app/)
 
 - 📫 How to reach me **suryam.jain@gmail.com**
 
@@ -94,3 +94,6 @@
     </td>
   </tr>
 </table>
+
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryam26&show_icons=true&locale=en&layout=compact" alt="suryam26" /></p>
