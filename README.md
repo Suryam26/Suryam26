@@ -94,4 +94,4 @@
   </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryam26&show_icons=true&locale=en&layout=compact" alt="suryam26" /></p>
+<p align="center"><img align="center" width="40%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryam26&show_icons=true&locale=en&layout=compact" alt="suryam26" /></p>
