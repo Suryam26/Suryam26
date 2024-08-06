@@ -2,10 +2,10 @@
 <h3 align="center">A passionate full stack developer with experience in Python and MERN</h3>
 
 -   🌱 I’m currently learning **FastAPI and Three.js**
--   💬 Ask me about **Django, Node.js and React**
--   👨‍💻 All of my projects are available at [https://suryamjain.vercel.app/](https://suryamjain.vercel.app/)
-
--   📫 How to reach me **suryam.jain@gmail.com**
+-   💬 Ask me about **Django, Node.js and React,js**
+-   👨‍💻 Some of my top projects are available on [my portfolio](https://suryamjain.vercel.app/)
+-   📄 Know about my experiences through [my resume](https://drive.google.com/file/d/1lEFYRwNnA2l98UTahwBUjHHd42iYypEC/view)
+-   📫 You can reach me on **suryam.jain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
