@@ -4,7 +4,7 @@
 -   🌱 I’m currently learning **FastAPI and Three.js**
 -   💬 Ask me about **Django, Node.js and React,js**
 -   👨‍💻 Some of my top projects are available on **[my portfolio](https://suryamjain.vercel.app/)**
--   📄 Know about my experiences through **[my resume](https://drive.google.com/file/d/1qFsfdrLq0xLyJlVgsDyOmX6NeJ0RAuT5/view?usp=sharing)**
+-   📄 Know about my experiences through **[my resume](https://drive.google.com/file/d/16qtfwmOUcbMs9_XvaqxJQkexMGWVKQs2/view?usp=sharing)**
 -   📫 You can reach me on **suryam.jain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
